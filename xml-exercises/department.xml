@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<department name="Department of Irreproducible Results">
+  <staffMember name="Bill Gates" id="a1"/>
+  <staffMember name="Larry Ellison" id="b2"/>
+  <staffMember name="Sam Palmisano" id="c3"/>
+  <staffMember name="Steve Jobs" id="d4"/>
+  <staffMember name="Scott McNealy" id="e5"/>
+  <staffMember name="Eric Schmidt" id="f6"/>
+</department>
